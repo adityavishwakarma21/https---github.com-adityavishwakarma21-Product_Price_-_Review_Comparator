@@ -1,0 +1,10 @@
+body{font-family:Arial,Helvetica,sans-serif;background:#f6f8fb;color:#111;margin:0;padding:20px}
+.container{max-width:900px;margin:0 auto;background:#fff;padding:24px;border-radius:8px;box-shadow:0 6px 18px rgba(30,30,30,0.08)}
+h1{margin-top:0}
+form{display:flex;gap:8px;margin-bottom:18px}
+input[name="product"]{flex:1;padding:10px;border:1px solid #ddd;border-radius:6px}
+button{padding:10px 14px;border:none;background:#2b8aeb;color:#fff;border-radius:6px;cursor:pointer}
+table{width:100%;border-collapse:collapse;margin-top:8px}
+table,th,td{border:1px solid #eee}
+th,td{padding:8px;text-align:left}
+.results p, .results ul{margin:8px 0}
